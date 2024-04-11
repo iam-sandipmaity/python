@@ -1,0 +1,5 @@
+print("Hello World,","My name is Sandip")
+print("My age is 20")
+print(12)
+print("10+50")
+print(10+50)

@@ -1,0 +1,25 @@
+
+All lanuages are 2 types
+    1> Implicit
+    2> Explicit 
+
+
+1> Implicit Language :- 
+        Here we don't have to express variable types
+
+        Ex:- Python
+         
+         name = "Sandip"
+         age = 20
+          in this both case python detect automatically it's data type
+
+
+2> Explicit Language :-
+        Here we have to express data type before use any variable
+
+        ex:- C, C++, java
+
+        int age = 20;
+        String name = "Sandip"
+
+         Explicit languages can't detect automatically variable data type.
